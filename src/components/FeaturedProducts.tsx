@@ -5,7 +5,7 @@ const products = [
   {
     id: 1,
     name: 'Óculos de Sol Premium',
-    image: 'https://images.app.goo.gl/sJ6kLxTQD9x5ehpv9',
+    image: 'img.jpg src/components/public/images/oculos1.jpg',
     price: 'R$ 459,90',
     description: 'Proteção UV com estilo refinado',
   },
